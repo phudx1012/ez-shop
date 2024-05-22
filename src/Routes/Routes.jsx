@@ -35,7 +35,7 @@ import SalesManager from "../pages/SalesManagement";
 
 const ProjectRoutes = () => {
   let element = useRoutes([
-    { path: "/", element: <Home /> },
+    { path: "/", element: <HomePage /> },
     { path: "*", element: <NotFound /> },
     { path: "favoriteproduct", element: <FavoriteProduct /> },
     { path: "salesshop", element: <SalesShop /> },

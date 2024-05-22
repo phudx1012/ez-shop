@@ -356,7 +356,7 @@ export default function LoginPage() {
         </header>
         <div className="container-md pl-[479px] pr-[480px] md:p-5 md:px-5">
           <div className="flex flex-col items-start gap-[22px] rounded-md border border-solid border-gray-200_01 bg-white-A700 pb-[47px] pl-[41px] pr-10 pt-10 shadow-xs md:pb-5 md:pl-5 sm:p-5">
-            <Heading size="8xl" as="h1" className="uppercase">
+            <Heading size="8xl" as="h1" className=" uppercase ">
               Đăng nhập
             </Heading>
             <div className="flex flex-col items-center self-stretch">

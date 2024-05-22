@@ -119,7 +119,7 @@ export default function RegisterPage() {
             <Heading
               size="7xl"
               as="h5"
-              className="absolute right-[0.00px] top-[5%] m-auto uppercase"
+              className="absolute right-[160.00px] top-[5%] m-auto uppercase"
             >
               Tạo tài khoản
             </Heading>
